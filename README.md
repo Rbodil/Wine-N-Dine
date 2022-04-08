@@ -1,5 +1,9 @@
 # Wine N' Dine
 
+#### To see the commit history, the original project can be found at https://github.com/JWViking/project1
+
+#### Deployed application can be found at https://jwviking.github.io/project1/
+
 ## About our App:
 Wine N’ Dine is an app that makes finding, researching, and cooking meals & drinks easy for everyone.  
 
